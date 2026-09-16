@@ -1,0 +1,1 @@
+"""Reusable gray-detection package."""
